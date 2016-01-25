@@ -14,8 +14,7 @@
 --
 
 * ascreed, Inc.
-    * http://ascreed.jp/about_ascreed.pdf
-    * tihousousei
+    * https://ascreed.jp/
 * 好きにやらせてもらってます
 * 経営メンバーがとにかくすごい
 * 開発力が足りない！
